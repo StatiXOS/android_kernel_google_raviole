@@ -67,6 +67,7 @@ exynos_mfc.ko
 exynos_pm_qos.ko
 exynos_tty.ko
 exyswd-rng.ko
+ftm5.ko
 g2d.ko
 goodixfp.ko
 google-battery.ko
@@ -155,6 +156,7 @@ samsung_dma_heap.ko
 samsung_iommu.ko
 sbb-mux.ko
 sched_tp.ko
+sec_touch.ko
 sg.ko
 shm_ipc.ko
 sjtag-driver.ko
